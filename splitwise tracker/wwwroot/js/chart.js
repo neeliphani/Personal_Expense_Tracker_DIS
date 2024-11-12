@@ -73,7 +73,7 @@
             date: "2024-08-21"
         },
     ];
-
+    
     let updatedExpenses = JSON.parse(localStorage.getItem('expenses')) || expenses;
 
     // Calculate total expenses by person
@@ -99,20 +99,22 @@
                 label: 'Expense Distribution (%)',
                 data: Object.values(expensesByPerson),
                 backgroundColor: [
-                    'rgba(255, 99, 132, 0.6)',
-                    'rgba(54, 162, 235, 0.6)',
-                    'rgba(255, 206, 86, 0.6)',
-                    'rgba(75, 192, 192, 0.6)',
-                    'rgba(153, 102, 255, 0.6)',
-                    'rgba(255, 159, 64, 0.6)'
-                ],
-                borderColor: [
                     'rgba(255, 99, 132, 1)',
                     'rgba(54, 162, 235, 1)',
                     'rgba(255, 206, 86, 1)',
                     'rgba(75, 192, 192, 1)',
                     'rgba(153, 102, 255, 1)',
-                    'rgba(255, 159, 64, 1)'
+                    'rgba(255, 159, 64, 1)',
+                    'rgba(50, 205, 50, 1)'
+                ],
+                borderColor: [
+                    'rgba(255, 99, 132, 1)', 
+                    'rgba(54, 162, 235, 1)', 
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)', 
+                    'rgba(153, 102, 255, 1)',
+                    'rgba(255, 159, 64, 1)',
+                    'rgba(50, 205, 50, 1)'
                 ],
                 borderWidth: 1
             }]
@@ -121,10 +123,21 @@
             plugins: {
                 title: {
                     display: true,
-                    text: 'Distribution of Total Expenses by Person'
+                    text: 'Distribution of Total Expenses by Person',
+                    font: {
+                        size: 65
+                    }
+                },
+                legend: {
+                    display: true,
+                    labels: {
+                        font: {
+                            size: 65
+                        }
+                    },
                 }
             }
-        }
+        },        
     });
 
     // Line Chart - Trend of Expenses over Time
@@ -132,7 +145,7 @@
     const yearLineChart = new Chart(ctxYear, {
         type: 'line',
         data: {
-            labels: Object.keys(expensesByDate),
+            labels: Object.keys(expensesByDate), 
             datasets: [{
                 label: 'Total Expenses ($)',
                 data: Object.values(expensesByDate),
@@ -179,7 +192,7 @@
             datasets: [{
                 label: 'Total Amount Spent ($)',
                 data: Object.values(expensesByDescription), // Corresponding total expenses for each description
-                backgroundColor: 'rgba(54, 162, 235, 0.6)',
+                backgroundColor: 'rgba(54, 162, 235, 1)',
                 borderColor: 'rgba(54, 162, 235, 1)',
                 borderWidth: 1
             }]
