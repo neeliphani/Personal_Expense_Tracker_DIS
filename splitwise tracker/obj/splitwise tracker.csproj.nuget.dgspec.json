@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phani\\Source\\Repos\\Personal_Expense_Tracker_DIS\\splitwise tracker\\splitwise tracker.csproj": {}
+    "C:\\Users\\vikra\\Source\\Repos\\Personal_Expense_Tracker_DIS\\2\\splitwise tracker\\splitwise tracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phani\\Source\\Repos\\Personal_Expense_Tracker_DIS\\splitwise tracker\\splitwise tracker.csproj": {
+    "C:\\Users\\vikra\\Source\\Repos\\Personal_Expense_Tracker_DIS\\2\\splitwise tracker\\splitwise tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phani\\Source\\Repos\\Personal_Expense_Tracker_DIS\\splitwise tracker\\splitwise tracker.csproj",
+        "projectUniqueName": "C:\\Users\\vikra\\Source\\Repos\\Personal_Expense_Tracker_DIS\\2\\splitwise tracker\\splitwise tracker.csproj",
         "projectName": "splitwise tracker",
-        "projectPath": "C:\\Users\\Phani\\Source\\Repos\\Personal_Expense_Tracker_DIS\\splitwise tracker\\splitwise tracker.csproj",
-        "packagesPath": "C:\\Users\\Phani\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phani\\Source\\Repos\\Personal_Expense_Tracker_DIS\\splitwise tracker\\obj\\",
+        "projectPath": "C:\\Users\\vikra\\Source\\Repos\\Personal_Expense_Tracker_DIS\\2\\splitwise tracker\\splitwise tracker.csproj",
+        "packagesPath": "C:\\Users\\vikra\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\vikra\\Source\\Repos\\Personal_Expense_Tracker_DIS\\2\\splitwise tracker\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Phani\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vikra\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
