@@ -58,3 +58,34 @@ E:\Downloads\vikranth\vikranth\splitwise tracker\splitwise tracker\obj\Debug\net
 E:\Downloads\vikranth\vikranth\splitwise tracker\splitwise tracker\obj\Debug\net8.0\splitwise tracker.pdb
 E:\Downloads\vikranth\vikranth\splitwise tracker\splitwise tracker\obj\Debug\net8.0\splitwise tracker.genruntimeconfig.cache
 E:\Downloads\vikranth\vikranth\splitwise tracker\splitwise tracker\obj\Debug\net8.0\ref\splitwise tracker.dll
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\appsettings.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\splitwise tracker.staticwebassets.runtime.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\splitwise tracker.exe
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\splitwise tracker.deps.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\splitwise tracker.runtimeconfig.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\splitwise tracker.dll
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\bin\Debug\net8.0\splitwise tracker.pdb
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.AssemblyInfoInputs.cache
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.AssemblyInfo.cs
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.csproj.CoreCompileInputs.cache
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.RazorAssemblyInfo.cache
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.RazorAssemblyInfo.cs
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.sourcelink.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\staticwebassets\msbuild.splitwise tracker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\staticwebassets\msbuild.build.splitwise tracker.props
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.splitwise tracker.props
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.splitwise tracker.props
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\scopedcss\bundle\splitwise tracker.styles.css
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\scopedcss\projectbundle\splitwise tracker.bundle.scp.css
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.dll
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\refint\splitwise tracker.dll
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.pdb
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\splitwise tracker.genruntimeconfig.cache
+C:\Users\vikra\Source\Repos\Personal_Expense_Tracker_DIS\1\splitwise tracker\obj\Debug\net8.0\ref\splitwise tracker.dll
