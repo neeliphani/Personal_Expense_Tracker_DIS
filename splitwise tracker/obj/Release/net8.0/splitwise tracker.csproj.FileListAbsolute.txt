@@ -1,0 +1,31 @@
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\appsettings.Development.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\appsettings.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\splitwise tracker.staticwebassets.runtime.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\splitwise tracker.exe
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\splitwise tracker.deps.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\splitwise tracker.runtimeconfig.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\splitwise tracker.dll
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\bin\Release\net8.0\splitwise tracker.pdb
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.AssemblyInfoInputs.cache
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.AssemblyInfo.cs
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.csproj.CoreCompileInputs.cache
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.RazorAssemblyInfo.cache
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.RazorAssemblyInfo.cs
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.sourcelink.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\staticwebassets.build.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\staticwebassets.development.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\staticwebassets\msbuild.splitwise tracker.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\staticwebassets\msbuild.build.splitwise tracker.props
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\staticwebassets\msbuild.buildMultiTargeting.splitwise tracker.props
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\staticwebassets\msbuild.buildTransitive.splitwise tracker.props
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\staticwebassets.pack.json
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\scopedcss\bundle\splitwise tracker.styles.css
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\scopedcss\projectbundle\splitwise tracker.bundle.scp.css
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.dll
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\refint\splitwise tracker.dll
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.pdb
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\splitwise tracker.genruntimeconfig.cache
+C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\ref\splitwise tracker.dll

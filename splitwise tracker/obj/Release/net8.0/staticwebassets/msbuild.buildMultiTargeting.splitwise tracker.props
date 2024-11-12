@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\splitwise tracker.props" />
+</Project>
