@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("splitwise tracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69ed60c5302bd473f66d023f9f998a4c2550058b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54046e21695cd8c2d99a4f540eb5a6937f37114a")]
 [assembly: System.Reflection.AssemblyProductAttribute("splitwise tracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("splitwise tracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
