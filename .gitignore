@@ -1,0 +1,14 @@
+﻿# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+*.exe
+*.dll
+/bin/
+/obj/
+
+# Ignore log files
+*.log
+
+# Ignore sensitive files
+*.env
