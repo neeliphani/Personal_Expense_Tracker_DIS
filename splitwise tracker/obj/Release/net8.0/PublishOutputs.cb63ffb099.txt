@@ -1,7 +1,0 @@
-C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\PubTmp\Out\splitwise tracker.exe
-C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
-C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\PubTmp\Out\appsettings.json
-C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\PubTmp\Out\splitwise tracker.dll
-C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\PubTmp\Out\splitwise tracker.deps.json
-C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\PubTmp\Out\splitwise tracker.runtimeconfig.json
-C:\Users\Phani\Source\Repos\Personal_Expense_Tracker_DIS\splitwise tracker\obj\Release\net8.0\PubTmp\Out\splitwise tracker.pdb
